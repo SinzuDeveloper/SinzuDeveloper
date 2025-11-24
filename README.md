@@ -1,102 +1,103 @@
-## Hi there 👋
-👋🏾 Hey, I’m Tobore
+👑 Welcome to Sinzu’s GitHub Realm
+🔥 Who I Am
 
-IT Systems Administrator | Cloud & DevOps Engineer | Azure Certified
+I’m an IT Systems Administrator & Cloud/DevOps Engineer with experience across Windows, macOS, and Linux environments. I focus on building secure, reliable, and scalable systems while providing excellent technical support.
 
-I work across systems administration, cloud technologies, network operations, and IT support. My experience spans Windows, macOS, and Linux environments, with a strong focus on Azure, automation, secure infrastructure, and user-centric IT operations.
+⚙️ Core Skills & Tech Stack
+☁️ Cloud & DevOps
 
-I enjoy solving technical problems, improving system efficiency, and building reliable infrastructure that scales.
-
-🔧 Core Skills & Technologies
-Cloud & DevOps
-
-Azure Administration (AZ-104 Certified)
+Azure Administration (AZ-104)
 
 Azure AD · Microsoft 365
 
-Virtual Machines · Networking · Storage
+Virtual Machines · Storage · Networking
 
-Basic Infrastructure Automation (PowerShell)
+PowerShell automation basics
 
-Systems & Support
+🖥️ Systems & Infrastructure
 
 Windows · macOS · Linux (Ubuntu/CentOS)
 
-Active Directory · Group Policy
+Active Directory & Group Policy
 
-Desktop & Server Deployment
+Server maintenance & monitoring
 
-Troubleshooting (remote & onsite)
+Hardware troubleshooting & deployment
 
-Networking
+🌐 Networking
 
 TCP/IP · DNS · DHCP
 
 VPN (IPSec / SSL)
 
-LAN/WAN configurations
+LAN / WAN setup
 
-Switches · Routers · Firewalls
+Routers · Switches · Firewalls
 
-Tools
+🧰 Tools & Platforms
 
 ServiceNow · Jira Service Desk
 
-TeamViewer · RDP
+TeamViewer · Microsoft RDP
 
-Microsoft Office 365 Admin
+Office 365 Admin
 
-Backup & Security Tools
+Backup & cybersecurity tools
 
-🧑‍💻 Experience Snapshot
-IT Systems Administrator — KEM Healthcare & Consulting (2023–Present)
+💼 Professional Journey
+🔷 IT Systems Administrator — KEM Healthcare (2023–Present)
 
-Supporting cross-platform environments (Windows/macOS/Linux)
+Supporting Windows/macOS/Linux environments
 
-Maintaining servers, networks, and security tools
+Maintaining servers, networks, and security
 
-Training staff and improving IT processes
+Training users & improving IT processes
 
-Delivering 99.9% uptime through proactive monitoring
+Achieved 99.9% uptime through proactive monitoring
 
-IT Systems Officer — Nazareth College (2019–2021)
+🏫 IT Systems Officer — Nazareth College (2019–2021)
 
-Managed campus-wide IT operations for 500+ users
+Managed IT operations for 500+ users
 
-Implemented cybersecurity and documentation standards
+Implemented cybersecurity policies
 
-Improved IT efficiency and user training
+Improved documentation and asset management
 
-IT Systems Administrator — Amen Health Foundation (2015–2019)
+Delivered end-user training & tech guidance
 
-Onsite and remote support in clinical environments
+🏥 IT Systems Administrator — Amen Health Foundation (2015–2019)
 
-Network and workstation management
+Onsite and remote IT support
 
-Backup and recovery operations
+Network and workstation deployment
+
+Backup operations & basic recovery
+
+Created IT guides and onboarding materials
 
 🎓 Education & Certifications
+🎓 Education
 
-BSc, Computer Systems Engineering — University of Sunderland
+BSc Computer Systems Engineering — University of Sunderland
 
-Professional Diploma in Software Engineering — NIIT
+Diploma in Software Engineering — NIIT
 
-Microsoft Certified:
+🏅 Certifications
 
 Azure Fundamentals (AZ-900)
 
 Azure Administrator Associate (AZ-104)
 
-🚀 What I’m Currently Working On
+🚀 Current Focus
 
-Expanding DevOps skills (CI/CD, IaC, Containers)
+Strengthening DevOps skills (CI/CD, IaC, Containers)
 
-Preparing for advanced Azure and DevOps certifications
+Building projects in Azure & automation
 
-Building cloud and automation-focused projects
+Studying for advanced cloud/DevOps certifications
 
-📫 Let’s Connect
+🔗 Connect With Me
 
-Email: jasontoborewanogho@gmail.com
+📧 Email: jasontoborewanogho@gmail.com
 
-LinkedIn: linkedin.com/in/toborewanogho
+🔗 LinkedIn: linkedin.com/in/toborewanogho
