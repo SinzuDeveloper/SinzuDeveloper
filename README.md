@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋🏾 Hey, I’m Sinzu
+👋🏾 Hey, I’m Tobore
 
 IT Systems Administrator | Cloud & DevOps Engineer | Azure Certified
 
